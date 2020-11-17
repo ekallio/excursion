@@ -19,9 +19,7 @@ body {
     font-weight: 300;
     font-size: 42px;
 }
-
-h3 {
-    color: gray;
-    font-size: 21px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+ .secondary {
+     font-size: 21px;
+     color: gray;
+ }
