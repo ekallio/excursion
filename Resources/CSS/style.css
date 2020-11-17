@@ -1,27 +1,27 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
+.header {
     font-size: 50px;
     color: white;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.sub-header {
+    font-weight: 300;
+    font-size: 42px;
 }
 
 h3 {
     color: gray;
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-a {
-    color: aquamarine;
-    font-size: 16px;
-}
-
-footer {
-    text-align: right;
-    color: gray;
 }
